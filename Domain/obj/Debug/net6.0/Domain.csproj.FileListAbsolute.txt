@@ -1,0 +1,14 @@
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\bin\Debug\net6.0\Domain.dll
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.dll
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Learning\IonicLearning\OnionArch_Blinds-rz\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache

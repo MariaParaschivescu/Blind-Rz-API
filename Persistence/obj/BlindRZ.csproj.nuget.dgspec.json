@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Persistence\\BlindRZ.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\paras\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\paras\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Persistence\\BlindRZ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Persistence\\BlindRZ.csproj",
+        "projectName": "BlindRZ",
+        "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Persistence\\BlindRZ.csproj",
+        "packagesPath": "C:\\Users\\paras\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\Application.csproj": {
+                "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Application\\Application.csproj"
+              },
+              "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Learning\\IonicLearning\\OnionArch_Blinds-rz\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

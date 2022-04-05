@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97648088-ccfd-4377-a7fa-aaf48598050b": {
+      "ProjectGuid": "97648088-ccfd-4377-a7fa-aaf48598050b",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "8fe0e684-3eac-46ff-abc0-d7b52c8dfc33": {
+      "ProjectGuid": "8fe0e684-3eac-46ff-abc0-d7b52c8dfc33",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "2cd34f55-5ea1-4c7b-b1a4-f9aa633881ff": {
+      "ProjectGuid": "2cd34f55-5ea1-4c7b-b1a4-f9aa633881ff",
+      "DisplayName": "Persistence",
+      "ColorIndex": 2
+    },
+    "398bba3d-d37f-494e-af4e-9d7856c8d649": {
+      "ProjectGuid": "398bba3d-d37f-494e-af4e-9d7856c8d649",
+      "DisplayName": "BlindrzAPI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
